@@ -42,3 +42,4 @@ D:\LUCAS\Documentos\loja-virtual-microservicos\VShop\VShop.ProductApi\obj\Debug\
 D:\LUCAS\Documentos\loja-virtual-microservicos\VShop\VShop.ProductApi\obj\Debug\net6.0\ref\VShop.ProductApi.dll
 D:\LUCAS\Documentos\loja-virtual-microservicos\VShop\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.dll
 D:\LUCAS\Documentos\loja-virtual-microservicos\VShop\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\LUCAS\Documentos\loja-virtual-microservicos\VShop\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.sourcelink.json

@@ -70,5 +70,20 @@ namespace MyApp.Namespace
 
             return Ok(productDto);
         }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<ProductDTO>> Delete(int id)
+        {
+            var productDto = await _productService.GetProductById(id);
+
+            if (productDto == null)
+            {
+                return NotFound("Product not found");
+            }
+
+            await _productService.RemoveProduct(id);
+
+            return Ok(productDto);
+        }
     }
 }

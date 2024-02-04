@@ -24,4 +24,5 @@ public class ProductDTO
   [JsonIgnore]
   public Category? Category { get; set; }
   public int CategoryId { get; set; }
+  public string? CategoryName { get; set; }
 }

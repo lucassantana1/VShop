@@ -83,5 +83,20 @@ namespace MyApp.Namespace
 
             return Ok(categoryDto);
         }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<CategoryDTO>> Delete(int id)
+        {
+            var categoryDto = await _categoryService.GetCategoryById(id);
+
+            if (categoryDto == null)
+            {
+                return NotFound("category not found");
+            }
+
+            await _categoryService.RemoveCategory(id);
+
+            return Ok(categoryDto);
+        }
     }
 }
