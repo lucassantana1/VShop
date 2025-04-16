@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\HD\\Documentos\\cursowebapi\\VShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\migrations\\20250416184530_updatepropertiesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\migrations\\20250416184530_updatepropertiesproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\vshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\vshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\migrations\\20250416172626_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\migrations\\20250416172626_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\migrations\\20250416175852_seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\migrations\\20250416175852_seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\hd\\documentos\\cursowebapi\\vshop\\vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48D159B1-61A8-4EB5-906E-4D3FCFAC1339}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,86 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Program.cs",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\Program.cs",
-              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Program.cs",
-              "RelativeToolTip": "VShop.ProductApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T21:03:33.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\appsettings.json",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\appsettings.json",
-              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\appsettings.json",
-              "RelativeToolTip": "VShop.ProductApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-10T20:55:36.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\Context\\AppDbContext.cs",
-              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "VShop.ProductApi\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:52:32.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\Models\\Category.cs",
-              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Models\\Category.cs",
-              "RelativeToolTip": "VShop.ProductApi\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:49:30.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\Models\\Product.cs",
-              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Models\\Product.cs",
-              "RelativeToolTip": "VShop.ProductApi\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T20:08:27.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VShop.ProductApi",
-              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\VShop.ProductApi.csproj",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\VShop.ProductApi.csproj",
-              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\VShop.ProductApi.csproj",
-              "RelativeToolTip": "VShop.ProductApi\\VShop.ProductApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-10T19:57:47.823Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -121,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250416184530_UpdatePropertiesProducts.cs",
+              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Migrations\\20250416184530_UpdatePropertiesProducts.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\Migrations\\20250416184530_UpdatePropertiesProducts.cs",
+              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Migrations\\20250416184530_UpdatePropertiesProducts.cs",
+              "RelativeToolTip": "VShop.ProductApi\\Migrations\\20250416184530_UpdatePropertiesProducts.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:46:11.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "VShop.ProductApi\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:36:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VShop.ProductApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:04:51.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250416175852_SeedProducts.cs",
+              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Migrations\\20250416175852_SeedProducts.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\Migrations\\20250416175852_SeedProducts.cs",
+              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Migrations\\20250416175852_SeedProducts.cs",
+              "RelativeToolTip": "VShop.ProductApi\\Migrations\\20250416175852_SeedProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:58:56.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\appsettings.json",
+              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\appsettings.json",
+              "RelativeToolTip": "VShop.ProductApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T17:56:31.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250416172626_Inicial.cs",
+              "DocumentMoniker": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Migrations\\20250416172626_Inicial.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\Migrations\\20250416172626_Inicial.cs",
+              "ToolTip": "D:\\HD\\Documentos\\cursowebapi\\VShop\\VShop.ProductApi\\Migrations\\20250416172626_Inicial.cs",
+              "RelativeToolTip": "VShop.ProductApi\\Migrations\\20250416172626_Inicial.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwBYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:27:02.044Z",
+              "EditorCaption": ""
             }
           ]
         }
